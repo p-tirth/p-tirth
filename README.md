@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @p-tirth
-- 👀 I’m interested in ...android develepment
+- 👀 I’m interested in ...android development
 - 🌱 I’m currently learning ...java , c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
