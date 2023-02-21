@@ -1,4 +1,4 @@
-<h1 align="center">hey , i am Tirth</h1>
+<h1 align="center">Hey , i am Tirth</h1>
 <h3 align="center">computer science is so fascinating󠀠🌌 ,can't stick to learning just one thing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=p-tirth&label=Profile%20views&color=0e75b6&style=flat" alt="p-tirth" /> </p>
