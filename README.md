@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **web scraping with python**
 
-- 📫 How to reach me **tirthpatel2992003@gmail.com**
+- 📫 How to reach me **pateltirth.tech@gmail.com**
 
 - ⚡ Fun fact about me : **jack of all trades master of none, but oftentimes better than a master of one**
 
