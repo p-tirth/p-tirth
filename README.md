@@ -5,7 +5,7 @@
 
 - 🔭 Interested in mastery of **React and Android Studio**
 
-- 🌱 I'm currently learning **web development**
+- 🌱 I'm currently learning **BackEnd development**
 
 - 🤝 I’m looking for help with **Android Studio**
 
