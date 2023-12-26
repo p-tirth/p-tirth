@@ -1,15 +1,15 @@
-<h1 align="center">Hey , i am Tirth</h1>
-<h3 align="center">Not your average FrontEnd Developer</h3>
+<h1 align="center">Hey , I am Tirth</h1>
+<h3 align="center">Not your average Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=p-tirth&label=Profile%20views&color=0e75b6&style=flat" alt="p-tirth" /> </p>
 
-- 🔭 Interested in mastery of **React and Android Studio**
+- 🔭 Interested in mastery of **WEB**
 
 - 🌱 I'm currently learning **BackEnd development**
 
-- 🤝 I’m looking for help with **Android Studio**
+- 🤝 I’m looking for help with **System Design**
 
-- 💬 Ask me about **web scraping with python**
+- 💬 Ask me about **React and  python scripting**
 
 - 📫 How to reach me **pateltirth.tech@gmail.com**
 
