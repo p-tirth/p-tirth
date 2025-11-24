@@ -1,25 +1,64 @@
-<h1 align="center">Hey , I am Tirth</h1>
-<h3 align="center">Not your average Developer</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=p-tirth&label=Profile%20views&color=0e75b6&style=flat" alt="p-tirth" /> </p>
+# Hi, I'm Tirth! ⚡
 
-- 🔭 Interested in mastery of **WEB**
+### Founding AI Engineer @ [Magi](https://magihq.com)
+**10x Gen AI Developer***
+<br/>
+<small>_*10x refers to the number of coffees I consume per JIRA ticket._</small>
 
-- 🌱 I'm currently learning **BackEnd development**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/p-tirth-)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/p-tirth)
+[![Mail](https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail)](mailto:pateltirth.tech@gmail.com)
 
-- 🤝 I’m looking for help with **System Design**
+</div>
 
-- 💬 Ask me about **React and  python scripting**
+---
 
-- 📫 How to reach me **pateltirth.tech@gmail.com**
+### 👨‍💻 About Me
 
-- ⚡ Fun fact about me : **jack of all trades master of none, but oftentimes better than a master of one**
+I’m a **Founding AI Engineer** working remotely from India. I specialize in building AI agents, RAG pipelines, and breaking things in production so I can fix them later.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+- **Current Focus:** Building the future of AI at **Magi**.
+- **Philosophy:** "Mess around and find out" (My primary debugging strategy).
+- **Side Quests:** FPS addict. I usually carry the team, except when I don't.
+- **Status:** Trying to contribute to Open Source before AGI replaces us all.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+> **Fun Fact:** My error logs are officially over 9000.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=p-tirth&show_icons=true&locale=en" alt="p-tirth" /></p>
+---
+
+### 🛠 Tech Stack
+
+I like tinkering with random tech, but this is my daily driver:
+
+| Domain | Technologies |
+| :--- | :--- |
+| **🧠 Generative AI** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white) ![Pinecone](https://img.shields.io/badge/-Pinecone-000000?style=flat&logo=pinecone&logoColor=white) |
+| **💻 Web & Mobile** | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) ![React Native](https://img.shields.io/badge/-React_Native-20232A?style=flat&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat&logo=node.js&logoColor=white) |
+
+---
+
+### 🚀 Projects
+
+I have a history of building cool stuff (and abandoning side projects). Here are the survivors:
+
+| Project | What is it? | Stack |
+| :--- | :--- | :--- |
+| **Business Analytics AI** | A RAG pipeline that lets you bully your database with natural language questions. Integrated with user reviews because structured data is boring. | ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) ![Pinecone](https://img.shields.io/badge/-Pinecone-black?style=flat&logo=pinecone&logoColor=white) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white) |
+| **Knights and Rook** | Multiplayer chess platform. Uses WebSockets for real-time updates to perfectly capture the panic when you hang your Queen. | ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js&logoColor=white) ![WebSockets](https://img.shields.io/badge/-WebSockets-000000?style=flat&logo=socket.io&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white) |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=p-tirth&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p-tirth&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+---
+
+<div align="center">
+  <small>Last updated by an automated script (just kidding, I wrote this manually).</small>
+</div>
