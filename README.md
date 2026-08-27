@@ -7,6 +7,7 @@
 <br/>
 <small>_*10x refers to the number of coffees I consume per JIRA ticket._</small>
 
+[![Website](https://img.shields.io/badge/ptirth.dev-Portfolio-1E4FD8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ptirth.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/p-tirth-)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/p-tirth)
 [![Mail](https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail)](mailto:pateltirth.tech@gmail.com)
