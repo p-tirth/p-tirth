@@ -7,7 +7,7 @@ Founding AI engineer at [Magi](https://magihq.com), Bengaluru. Outside work I'm 
 ### Now
 
 - **[VoxDesk](https://github.com/p-tirth/voxdesk-server)**: an open-source learning project on how well a voice agent built on Pipecat (STT → LLM → TTS) handles Hinglish. The test case is a made-up kitchen and home store: it answers order and policy questions, and hands the call to a human when it can't help. The eval suite runs in CI, and the latency scorecard publishes the misses too. Web client: [voxdesk-client](https://github.com/p-tirth/voxdesk-client).
-- **Pipecat [#5501](https://github.com/pipecat-ai/pipecat/pull/5501)**: adds a Sarvam HTTP speech-to-text service, a REST sibling of the existing WebSocket one for when you only need to transcribe finished clips. Open, waiting on review.
+- **Pipecat [#5501](https://github.com/pipecat-ai/pipecat/pull/5501)**: adds a Sarvam HTTP speech-to-text service, a REST sibling of the existing WebSocket one for when you only need to transcribe finished clips. Merged in November 2026.
 
 ### Before
 
